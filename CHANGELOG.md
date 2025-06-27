@@ -6,6 +6,7 @@ Please follow the format in [Keep a Changelog](http://keepachangelog.com/)
 
 ## [Unreleased]
 
+
 ## [6.6.1] - 2025-06-26
 
 - Flex mysql2 dependency to < 0.6 and bump version to 0.5.6
